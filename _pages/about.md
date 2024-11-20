@@ -6,7 +6,7 @@ subtitle: Week - to - week
 
 profile:
   align: right
-  image: 2024-11-19 22.19.23.jpg
+  image: rmnb_update.jpg
   image_circular: false # crops the image to make it circular
   more_info:
 news: false # includes a list of news items
