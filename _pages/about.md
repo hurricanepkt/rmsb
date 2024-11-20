@@ -10,7 +10,6 @@ redirect: "https://russianmachineneverbreaks.com/"
 redirectTime: 5
 ---
 
-
 <h1 class="display-6" style="text-align:center;">
   Week-to-Week
 </h1>

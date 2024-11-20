@@ -10,16 +10,18 @@ layout: default
 
 <div class="post">
   <header class="post-header">
-    <a href="https://russianmachineneverbreaks.com/"><h1 class="post-title">{{ page.title }}</h1></a>
+    <a href="https://russianmachineneverbreaks.com/">
+      <h1 class="post-title">{{ page.title }}</h1>
+    </a>
     <p class="post-description">{{ page.description }}</p>
   </header>
 
   <a href="https://russianmachineneverbreaks.com/">
-  <article>
-    {{ content }}
-  </article>
+    <article>
+      {{ content }}
+    </article>
   </a>
-  
+
   {% if page.related_publications %}
     <h2>References</h2>
     <div class="publications">
