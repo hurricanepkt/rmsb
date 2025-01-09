@@ -11,7 +11,7 @@ redirectTime: 1
 ---
 
 <h1 class="display-6" style="text-align:center;">
-  Week-to-Week
+ Healthy
 </h1>
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
