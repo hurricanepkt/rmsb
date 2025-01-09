@@ -16,7 +16,7 @@ redirectTime: 1
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
 
-<swiper-slide>{% include figure.liquid loading="eager" path="assets/img/872.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+<swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Alex_Ovechkin_2018-05-21.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
 <h1 class="display-6">Ovechkin Healthy
